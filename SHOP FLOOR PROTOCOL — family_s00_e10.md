@@ -1,10 +1,10 @@
-\# ⬛ SHOP FLOOR PROTOCOL — family\_s02\_e22
+\# ⬛ SHOP FLOOR PROTOCOL — family\_s00\_e10
 
-\*\*Asset ID:\*\* family\_s02\_e22  
+\*\*Asset ID:\*\* family\_s00\_e10  
 
 \*\*Theme:\*\* Sovereign Structural Asset  
 
-\*\*SRI:\*\* 0.173  
+\*\*SRI:\*\* 0.127  
 
 \*\*Status:\*\* Production-Ready | Humanitarian Release
 
@@ -22,7 +22,7 @@
 
 
 
-\## MATERIALS (from MATERIAL\_BOM\_family\_s02\_e22.json)
+\## MATERIALS (from MATERIAL\_BOM\_family\_s00\_e10.json)
 
 \- Primary Substrate: Carbon-Nanotube Lattice (99.9998 % purity, 5.0 kg)
 
@@ -36,7 +36,7 @@
 
 \### PHASE 1 — Chamber Prep (15–20 min)
 
-1\. Load `REAL\_3D\_MESH\_family\_s02\_e22.obj` (or `PRINT\_READY\_family\_s02\_e22.obj` for full-scale output).
+1\. Load `REAL\_3D\_MESH\_family\_s00\_e10.obj` (or `PRINT\_READY\_family\_s00\_e10.obj` for full-scale output).
 
 2\. Evacuate chamber to hard vacuum (< 10⁻⁶ Torr).
 
@@ -82,39 +82,21 @@
 
 
 
+# ⬛ 2026 SHOP FLOOR PROTOCOL — family_s00_e10
+**Asset ID:** family_s00_e10  
+**Theme:** Sovereign Structural Asset  
+**SRI:** 0.127+ (post-2026 refinement)  
+**Status:** Next-Gen | Humanitarian Release
 
+## QUICK-RUN SEQUENCE (under 60 min total)
+1. Chamber auto-evacuate + 1500 K normalization (8 min)
+2. Load `PRINT_READY_family_s00_e10.obj`
+3. Inject Carbon-Nanotube + Sub-Atomic Tensor catalyst
+4. 1200 MPa weave (35 min)
+5. 40 K/sec quench + instant scan
+6. Pass → auto-certify with OMEGA-CLASS-9 tag
 
-\# ⬛ 2026 SHOP FLOOR PROTOCOL — family\_s02\_e22
+**Any topological drift > 0.0001 % triggers immediate purge and re-run.**
 
-\*\*Asset ID:\*\* family\_s02\_e22  
-
-\*\*Theme:\*\* Sovereign Structural Asset  
-
-\*\*SRI:\*\* 0.173+ (post-2026 refinement)  
-
-\*\*Status:\*\* Next-Gen | Humanitarian Release
-
-
-
-\## QUICK-RUN SEQUENCE (under 60 min total)
-
-1\. Chamber auto-evacuate + 1500 K normalization (8 min)
-
-2\. Load `PRINT\_READY\_family\_s02\_e22.obj`
-
-3\. Inject Carbon-Nanotube + Sub-Atomic Tensor catalyst
-
-4\. 1200 MPa weave (35 min)
-
-5\. 40 K/sec quench + instant scan
-
-6\. Pass → auto-certify with OMEGA-CLASS-9 tag
-
-
-
-\*\*Any topological drift > 0.0001 % triggers immediate purge and re-run.\*\*
-
-
-
-\*\*For the advancement of human life | VeilSight Sovereign Systems\*\*
+**For the advancement of human life | VeilSight Sovereign Systems**
 
