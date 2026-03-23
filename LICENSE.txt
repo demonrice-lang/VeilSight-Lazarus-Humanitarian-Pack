@@ -1,0 +1,9 @@
+VEILSIGHT HUMANITARIAN LICENSE v1.0
+
+The 10 structural geometries contained in this repository are provided for non-commercial, clinical, and academic use only.
+
+Prohibition of Sale: No entity may sell, lease, or profit from the raw .obj, .json, or .md files contained herein.
+
+Prohibition of Derivative Commercialization: Manufacturing these designs for private profit is strictly prohibited.
+
+Humanitarian Mandate: These files are intended for hospitals, non-profits, and research institutions to provide low-cost or free medical intervention to those in need.
